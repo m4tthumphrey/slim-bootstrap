@@ -1,0 +1,28 @@
+body {
+    padding-top: 40px;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.table td.center {
+    text-align: center;
+}
+
+.table tr.result-failure td {
+    background-color: #f2dede;
+    color: #b94a48;
+}
+
+.table td p {
+    margin: 0;
+}
+
+.controls p {
+    padding-top: 5px;
+}
