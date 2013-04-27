@@ -12,4 +12,9 @@ class App extends \Slim\Slim
 
         return $this;
     }
+    
+    public function getDB()
+    {
+        return $this->db;
+    }
 }
